@@ -1,0 +1,80 @@
+ME PAGE : index.html ===================== --><!DOCTYPE html><html lang="en">
+	<head>
+		  <meta charset="UTF-8">
+		    <title>Maharashtra Forts Travel</title>
+		      <style>
+    body { font-family: Arial; background:#fff3e0; margin:0; }
+        header, footer { background:#bf360c; color:white; text-align:center; padding:15px; }
+	    nav { background:#e64a19; text-align:center; padding:10px; }
+	        nav a { color:#fff; margin:0 15px; text-decoration:none; font-weight:bold; }
+		    .container { padding:20px; }
+		        .card { background:white; padding:20px; border-radius:8px; }
+			  </style>
+	</head>
+	<body>
+		<header>
+			  <h1>Maharashtra Forts Travel Guide</h1>
+			    <p>Explore Famous Forts of Maharashtra</p>
+		</header>
+		<nav>
+			  <a href="index.html">Home</a>
+			    <a href="raigad.html">Raigad Fort</a>
+			      <a href="sinhagad.html">Sinhagad Fort</a>
+			        <a href="pratapgad.html">Pratapgad Fort</a>
+		</nav>
+		<div class="container">
+			  <div class="card">
+				      <h2>Welcome</h2>
+				          <p>Maharashtra is well known for its historical forts from the Maratha Empire. Click on any fort below to see details and photos.</p>
+					      <ul>
+						            <li><a href="raigad.html">Raigad Fort Information & Photo</a></li>
+							          <li><a href="sinhagad.html">Sinhagad Fort Information & Photo</a></li>
+								        <li><a href="pratapgad.html">Pratapgad Fort Information & Photo</a></li>
+									    </ul>
+									      </div>
+		</div>
+		<footer>
+			  <p>© 2025 Maharashtra Forts Travel</p>
+		</footer>
+	</body>
+</html><!-- ===================== RAIGAD PAGE : raigad.html ===================== --><!DOCTYPE html><html lang="en">
+	<head>
+		  <meta charset="UTF-8">
+		    <title>Raigad Fort</title>
+	</head>
+	<body style="font-family:Arial; background:#f4f4f4;">
+		<h1 style="text-align:center;">Raigad Fort</h1>
+		<center>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Raigad_Fort_Maharashtra.jpg" width="60%" style="border-radius:10px;">
+		</center>
+		<p style="padding:20px;">Raigad Fort was the capital of Chhatrapati Shivaji Maharaj. It is located in Raigad district.</p>
+		<center><a href="index.html">Back to Home</a></center>
+	</body>
+</html><!-- ===================== SINHAGAD PAGE : sinhagad.html ===================== --><!DOCTYPE html><html lang="en">
+	<head>
+		  <meta charset="UTF-8">
+		    <title>Sinhagad Fort</title>
+	</head>
+	<body style="font-family:Arial; background:#f4f4f4;">
+		<h1 style="text-align:center;">Sinhagad Fort</h1>
+		<center>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Sinhagad_Fort_Pune.jpg" width="60%" style="border-radius:10px;">
+		</center>
+		<p style="padding:20px;">Sinhagad Fort is near Pune and famous for the battle fought by Tanaji Malusare.</p>
+		<center><a href="index.html">Back to Home</a></center>
+	</body>
+</html><!-- ===================== PRATAPGAD PAGE : pratapgad.html ===================== --><!DOCTYPE html><html lang="en">
+	<head>
+		  <meta charset="UTF-8">
+		    <title>Pratapgad Fort</title>
+	</head>
+	<body style="font-family:Arial; background:#f4f4f4;">
+		<h1 style="text-align:center;">Pratapgad Fort</h1>
+		<center>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Pratapgad_Fort_Satara.jpg" width="60%" style="border-radius:10px;">
+		</center>
+		<p style="padding:20px;">Pratapgad Fort is near Mahabaleshwar and is famous for the battle between Shivaji Maharaj and Afzal Khan.</p>
+		<center><a href="index.html">Back to Home</a></center>
+	</body>
+</html>
+
